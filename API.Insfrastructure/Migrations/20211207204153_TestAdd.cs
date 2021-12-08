@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace API.Data.Migrations
+namespace API.Insfrastructure.Migrations
 {
     public partial class TestAdd : Migration
     {
